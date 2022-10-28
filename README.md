@@ -1,5 +1,5 @@
 - 👋 Hi, I’m avinash
-- 👀 I’m interested in Wed-Developer
+- 👀 I’m interested in Front-End-Developer
 - 🌱 I’m currently learning Secrete
 - 📫 How to reach me IG: i.a.m._.abhi
 
