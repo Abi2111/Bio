@@ -20,7 +20,7 @@
 ###
 
 <div align="left">
-  <img src="https://icons8.com/icon/20909/html-5" height="40" alt="go logo"  />
+  <img src="https://icons8.com/icon/20909/html-5" height="40" alt="Html logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
   <img width="12" />
